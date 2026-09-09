@@ -1,0 +1,6 @@
+streamlit
+groq
+pandas
+plotly
+werkzeug
+mysql-connector-python
